@@ -1,9 +1,9 @@
-a = 'HELLO'
-b = 'hell'
-a = a[:len(b)]
-ch = 700
-ed = ch % 10
-des = (ch % 100) // 10
-s = ch // 100
+print('Hi, PyCharm')
 
-print(s, des, ed)
+x = 43
+
+y = 32
+
+print(x * y)
+
+print('End line')
